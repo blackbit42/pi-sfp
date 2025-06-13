@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "RPi_Hat_Template")(type "KiCad")(uri "${KIPRJMOD}/RPi_Hat_Template/footprints/RPI_Hat.pretty")(options "")(descr ""))
+)
